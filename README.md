@@ -20,4 +20,4 @@ Concatenação: Junção de variáveis e textos para gerar um relatório final d
 
 💻 Como o programa funciona
 
-O sistema recebe as notas do aluno no próprio código, calcula a média dividindo a soma por 3, e testa se o valor é maior ou igual a 7.0. No final, ele imprime um relatório completo no console.
+O sistema recebe as notas do aluno no próprio código, calcula a média dividindo a soma por 3, e testa se o valor é maior ou igual a 6.0. No final, ele imprime um relatório completo no console.
