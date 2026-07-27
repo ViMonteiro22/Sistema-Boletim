@@ -10,7 +10,7 @@ public class sistemaBoletim {
         double  notaDaProva02 = 6.0;
         double  notaDaProva03 = 9.0;
         double media = (notaDaProva01 + notaDaProva02 + notaDaProva03) / 3;
-        boolean isAprovado = media >= 7.0;
+        boolean isAprovado = media >= 6.0;
         String resultado = "A aluna " + nome + " tirou as notas " + notaDaProva01 + ", " + notaDaProva02 + " e "
                 + notaDaProva03 + ". A média final foi de: " + media + ". A aluna foi aprovada? " + isAprovado;
         System.out.println(resultado);
